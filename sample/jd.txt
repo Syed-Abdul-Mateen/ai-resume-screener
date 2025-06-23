@@ -1,0 +1,53 @@
+Job Title: Full-Stack Software Engineer
+
+Location: Remote / Hybrid  
+Experience: 3+ years  
+Employment Type: Full-time  
+
+About the Role:
+We are seeking a highly motivated and skilled Full-Stack Software Engineer to join our growing engineering team. You will be responsible for designing, developing, testing, and maintaining scalable web applications across both frontend and backend systems. You’ll work closely with product managers, designers, and other engineers in an agile environment to deliver high-quality software solutions.
+
+Key Responsibilities:
+- Design and develop robust, scalable, and secure web applications.
+- Collaborate with cross-functional teams to define, design, and ship new features.
+- Write clean, maintainable, and well-documented code.
+- Participate in code reviews and contribute to continuous improvement of code quality.
+- Troubleshoot, debug, and optimize performance of existing applications.
+- Stay updated with emerging technologies and best practices in full-stack development.
+- Contribute to architectural decisions and system design.
+
+Required Qualifications:
+- Bachelor’s degree in Computer Science, Engineering, or a related field; or equivalent experience.
+- Minimum of 3 years of professional experience as a software engineer.
+- Strong proficiency in Python and JavaScript.
+- Experience with React.js or similar modern frontend frameworks.
+- Experience with Node.js, RESTful APIs, and backend development.
+- Familiarity with cloud platforms such as AWS or Azure.
+- Good understanding of databases – both SQL (e.g., PostgreSQL) and NoSQL (e.g., MongoDB).
+- Proficiency with Git and version control workflows.
+- Excellent problem-solving skills and attention to detail.
+- Ability to work independently and in a fast-paced, collaborative environment.
+
+Preferred Qualifications:
+- Experience with containerization tools like Docker and orchestration tools like Kubernetes.
+- Exposure to CI/CD pipelines and DevOps practices.
+- Contributions to open-source projects or personal tech blogs/github repositories.
+- Understanding of Agile methodologies (Scrum, Kanban).
+- Knowledge of UI/UX principles and accessibility standards.
+
+Tech Stack:
+- Frontend: React.js, TypeScript, Redux, Tailwind CSS
+- Backend: Node.js, Python (Flask/Django), FastAPI
+- Database: PostgreSQL, MongoDB
+- Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, GitHub Actions
+- Tools: Git, VS Code, Postman, Jira, Slack
+
+What We Offer:
+- Competitive salary and equity options.
+- Health, dental, and vision insurance.
+- Flexible working hours and remote-friendly culture.
+- Professional development opportunities and conference budgets.
+- A fun, inclusive, and innovative team environment.
+
+Apply Now:
+If you're excited about building impactful products and want to grow your career in a dynamic startup environment, we'd love to hear from you!

@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#6C63FF"  # Vibrant purple-blue
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1f2128"
+textColor = "#ffffff"
+font = "sans serif"

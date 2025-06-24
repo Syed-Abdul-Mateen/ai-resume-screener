@@ -1,10 +1,20 @@
 import streamlit as st
 import os
 import pandas as pd
-from resume_utils import parse_resumes, compute_similarity, extract_text_from_pdf, clean_text
 from fpdf import FPDF
 import spacy
+from resume_utils import parse_resumes, compute_similarity, extract_text_from_pdf
 
+# Ensure en_core_web_sm is downloaded if not already installed
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    print("Downloading language model for the first time. This may take a few minutes.")
+    from spacy.cli import download
+    download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
+
+# Rest of your app code...
 try:
     nlp = spacy.load("en_core_web_sm")
 except OSError:

@@ -1,5 +1,5 @@
 streamlit
-spacy
+spacy==3.5.0
 scikit-learn
 pandas
 PyPDF2

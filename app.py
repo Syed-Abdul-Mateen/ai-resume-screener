@@ -3,8 +3,7 @@ import os
 import pandas as pd
 from fpdf import FPDF
 import spacy
-from resume_utils import parse_resumes, compute_similarity, extract_text_from_pdf
-
+from resume_utils import parse_resumes, compute_similarity, extract_text_from_pdf, clean_text
 # Ensure en_core_web_sm is downloaded if not already installed
 try:
     nlp = spacy.load("en_core_web_sm")

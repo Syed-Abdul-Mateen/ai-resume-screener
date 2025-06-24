@@ -1,5 +1,6 @@
 streamlit
 spacy==3.5.0
+blis==0.7.11
 scikit-learn
 pandas
 PyPDF2

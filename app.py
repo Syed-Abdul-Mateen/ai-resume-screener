@@ -3,6 +3,15 @@ import os
 import pandas as pd
 from resume_utils import parse_resumes, compute_similarity, extract_text_from_pdf, clean_text
 from fpdf import FPDF
+import spacy
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    print("Downloading language model for the first time. This may take a few minutes.")
+    from spacy.cli import download
+    download("en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
 
 # Set page config
 st.set_page_config(

@@ -1,8 +1,7 @@
-streamlit
-spacy
-scikit-learn
-pandas
-PyPDF2
-matplotlib
-fpdf
-wordcloud
+streamlit==1.24.0
+spacy==3.5.0
+scikit-learn==1.3.0
+pandas==2.0.3
+PyPDF2==3.0.1
+matplotlib==3.7.1
+fpdf==1.7.2

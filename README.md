@@ -1,6 +1,6 @@
 # AI Resume Screener
 
-🤖 **An AI-powered resume screener built with Python, Streamlit, spaCy, and Scikit-learn**
+ **An AI-powered resume screener built with Python, Streamlit, spaCy, and Scikit-learn**
 
 This app allows hiring teams or recruiters to:
 - Upload multiple resumes (PDF/TXT)
@@ -9,16 +9,16 @@ This app allows hiring teams or recruiters to:
 - Filter candidates by role (e.g., Developer, QA, UX, Data Analyst, etc.)
 - Export results to CSV or PDF
 
-## 🔍 Features
+##  Features
 
-✅ **Resume Parsing**: Supports `.pdf` and `.txt` files  
-✅ **Text Cleaning**: Uses `spaCy` for lemmatization and stopword removal  
-✅ **Keyword Matching**: Highlights top matching keywords from job description  
-✅ **Role Filtering**: Sort resumes by role (e.g., Full Stack Developer, Business Analyst)  
-✅ **Export Options**: Download results as `CSV` or `PDF`  
-✅ **Dark UI Theme**: Modern dark mode design with responsive layout  
+ **Resume Parsing**: Supports `.pdf` and `.txt` files  
+ **Text Cleaning**: Uses `spaCy` for lemmatization and stopword removal  
+ **Keyword Matching**: Highlights top matching keywords from job description  
+ **Role Filtering**: Sort resumes by role (e.g., Full Stack Developer, Business Analyst)  
+ **Export Options**: Download results as `CSV` or `PDF`  
+ **Dark UI Theme**: Modern dark mode design with responsive layout  
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Upload Resumes**: Drag & drop or browse resumes in PDF or TXT format.
 2. **Paste Job Description**: Enter the job description or requirements.
@@ -29,7 +29,7 @@ This app allows hiring teams or recruiters to:
    - Role-based filtering
 5. **Export Report**: Download a detailed report in CSV or PDF format
 
-## 📦 Requirements
+##  Requirements
 
 Make sure to install these dependencies:
 
